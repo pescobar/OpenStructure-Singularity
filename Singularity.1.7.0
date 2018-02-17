@@ -13,7 +13,7 @@ From: centos:7.4.1708
     export OPENMM_INCLUDE_PATH=/usr/local/openmm/include/
     export OPENMM_LIB_PATH=/usr/local/openmm/lib/
     export SRC_FOLDER="/usr/local/src"
-    export CPUS_FOR_MAKE=8
+    export CPUS_FOR_MAKE=1
 
     # INSTALL SYSTEM DEPS
     ##########################
