@@ -1,1 +1,1 @@
-Singularity.1.7.0
+Singularity.1.7.1
